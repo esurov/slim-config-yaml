@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "slim/slim": "2.*",
+    "slim/slim": "*",
 		"symfony/yaml": "^2.4.3"
   },
 	"autoload": {
