@@ -10,7 +10,7 @@
   ],
   "require": {
     "slim/slim": "*",
-		"symfony/yaml": "^2.4.3"
+		"symfony/yaml": "^6.2.0"
   },
 	"autoload": {
 		"psr-4": {
